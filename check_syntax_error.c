@@ -1,5 +1,5 @@
 #include "main.h"
-cookey
+
 /**
  * repeated_char - counts the repetitions of a char
  *
