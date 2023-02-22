@@ -1,5 +1,5 @@
 #include "main.h"
-cookey gam
+
 /**
  * cd_dot - changes to the parent directory
  *
