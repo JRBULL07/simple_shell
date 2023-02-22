@@ -1,5 +1,5 @@
 #include "main.h"
-james
+
 /**
  * check_env - checks if the typed variable is an env variable
  *
