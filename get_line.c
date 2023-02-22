@@ -1,5 +1,5 @@
 #include "main.h"
-cookey
+
 /**
  * bring_line - assigns the line var for get_line
  * @lineptr: Buffer that store the input str
