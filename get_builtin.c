@@ -1,5 +1,5 @@
 #include "main.h"
-cookey
+
 /**
  * get_builtin - builtin that pais the command in the arg
  * @cmd: command
