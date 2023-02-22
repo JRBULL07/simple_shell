@@ -1,5 +1,5 @@
 #include "main.h"
-cookey
+
 /**
  * copy_info - copies info to create
  * a new env or alias
