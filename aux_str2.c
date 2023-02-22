@@ -1,5 +1,5 @@
 #include "main.h"
-james
+
 /**
  * _strdup - duplicates a str in the heap memory.
  * @s: Type char pointer str
