@@ -1,5 +1,5 @@
 #include "main.h"
-james
+
 /**
  * aux_help_env - Help information for the builtin env
  * Return: no return
