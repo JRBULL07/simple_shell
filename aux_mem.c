@@ -1,5 +1,5 @@
 #include "main.h"
-james
+
 /**
  * _memcpy - copies information between void pointers.
  * @newptr: destination pointer.
