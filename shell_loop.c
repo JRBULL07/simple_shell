@@ -1,5 +1,5 @@
 #include "main.h"
-james
+
 /**
  * without_comment - deletes comments from the input
  *
