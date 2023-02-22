@@ -1,5 +1,5 @@
 #include "main.h"
-cookey
+
 /**
  * exec_line - finds builtins and commands
  *
