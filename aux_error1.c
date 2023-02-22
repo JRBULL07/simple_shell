@@ -1,6 +1,5 @@
-
 #include "main.h"
-james
+
 /**
  * strcat_cd - function that concatenates the message for cd error
  *
