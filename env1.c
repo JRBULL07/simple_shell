@@ -1,5 +1,5 @@
 #include "main.h"
-cookey
+
 /**
  * cmp_env_name - compares env variables names
  * with the name passed.
